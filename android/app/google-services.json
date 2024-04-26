@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569252389470",
+    "project_id": "miro-firebase-3",
+    "storage_bucket": "miro-firebase-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569252389470:android:0c15900fab5e12de2c4acf",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAN0OtEAI41Drg1e5jWmEnH1N8OQcILFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
